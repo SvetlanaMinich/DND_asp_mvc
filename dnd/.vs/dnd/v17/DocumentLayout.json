@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dndSite\\dnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|c:\\dndsite\\dnd\\dnd\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|solutionrelative:dnd\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|c:\\dndsite\\dnd\\dnd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|solutionrelative:dnd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|c:\\dndsite\\dnd\\dnd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|solutionrelative:dnd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|c:\\dndsite\\dnd\\dnd\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|solutionrelative:dnd\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|c:\\dndsite\\dnd\\dnd\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|solutionrelative:dnd\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|c:\\dndsite\\dnd\\dnd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18189753-EA30-44A4-A7A8-2C87595F8A57}|dnd\\dnd.csproj|solutionrelative:dnd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dndSite\\dnd\\dnd\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "dnd\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\dndSite\\dnd\\dnd\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "dnd\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T19:09:43.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dndSite\\dnd\\dnd\\Program.cs",
+              "RelativeDocumentMoniker": "dnd\\Program.cs",
+              "ToolTip": "C:\\dndSite\\dnd\\dnd\\Program.cs",
+              "RelativeToolTip": "dnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:09:32.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\dndSite\\dnd\\dnd\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "dnd\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\dndSite\\dnd\\dnd\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "dnd\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T19:09:28.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\dndSite\\dnd\\dnd\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "dnd\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\dndSite\\dnd\\dnd\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "dnd\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T19:09:26.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dndSite\\dnd\\dnd\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "dnd\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dndSite\\dnd\\dnd\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "dnd\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:09:22.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\dndSite\\dnd\\dnd\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "dnd\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\dndSite\\dnd\\dnd\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "dnd\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:09:16.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
